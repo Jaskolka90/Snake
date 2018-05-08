@@ -1,0 +1,37 @@
+D:\Pobrane\Snake1\Snake1\Snake1\bin\Debug\Snake1.exe.config
+D:\Pobrane\Snake1\Snake1\Snake1\bin\Debug\Images\BigEyesSnake.jpg
+D:\Pobrane\Snake1\Snake1\Snake1\bin\Debug\Images\BigEyesSnake2.jpg
+D:\Pobrane\Snake1\Snake1\Snake1\bin\Debug\Images\cytryna.JPG
+D:\Pobrane\Snake1\Snake1\Snake1\bin\Debug\Images\gruszka.JPG
+D:\Pobrane\Snake1\Snake1\Snake1\bin\Debug\Images\jabłko.JPG
+D:\Pobrane\Snake1\Snake1\Snake1\bin\Debug\Images\pomarańcz.JPG
+D:\Pobrane\Snake1\Snake1\Snake1\bin\Debug\Images\truskawka.JPG
+D:\Pobrane\Snake1\Snake1\Snake1\bin\Debug\Images\śliwka.JPG
+D:\Pobrane\Snake1\Snake1\Snake1\bin\Debug\Snake1.exe
+D:\Pobrane\Snake1\Snake1\Snake1\bin\Debug\Snake1.pdb
+D:\Pobrane\Snake1\Snake1\Snake1\obj\Debug\Snake1.csprojResolveAssemblyReference.cache
+D:\Pobrane\Snake1\Snake1\Snake1\obj\Debug\Snake1.MainView.resources
+D:\Pobrane\Snake1\Snake1\Snake1\obj\Debug\Snake1.Properties.Resources.resources
+D:\Pobrane\Snake1\Snake1\Snake1\obj\Debug\Snake1.csproj.GenerateResource.Cache
+D:\Pobrane\Snake1\Snake1\Snake1\obj\Debug\Snake1.exe
+D:\Pobrane\Snake1\Snake1\Snake1\obj\Debug\Snake1.pdb
+D:\Pobrane\Snake1 13marca\Snake1\bin\Debug\Snake1.exe.config
+D:\Pobrane\Snake1 13marca\Snake1\obj\Debug\Snake1.exe
+D:\Pobrane\Snake1 13marca\Snake1\obj\Debug\Snake1.pdb
+F:\Projekty C#\Snake\Snake1\bin\Debug\Snake1.exe.config
+F:\Projekty C#\Snake\Snake1\obj\Debug\Snake1.exe
+F:\Projekty C#\Snake\Snake1\obj\Debug\Snake1.pdb
+F:\Projekty C#\Snake\Snake1\bin\Debug\Images\BigEyesSnake.jpg
+F:\Projekty C#\Snake\Snake1\bin\Debug\Images\BigEyesSnake2.jpg
+F:\Projekty C#\Snake\Snake1\bin\Debug\Images\cytryna.JPG
+F:\Projekty C#\Snake\Snake1\bin\Debug\Images\gruszka.JPG
+F:\Projekty C#\Snake\Snake1\bin\Debug\Images\jabłko.JPG
+F:\Projekty C#\Snake\Snake1\bin\Debug\Images\pomarańcz.JPG
+F:\Projekty C#\Snake\Snake1\bin\Debug\Images\truskawka.JPG
+F:\Projekty C#\Snake\Snake1\bin\Debug\Images\śliwka.JPG
+F:\Projekty C#\Snake\Snake1\bin\Debug\Snake1.exe
+F:\Projekty C#\Snake\Snake1\bin\Debug\Snake1.pdb
+F:\Projekty C#\Snake\Snake1\obj\Debug\Snake1.csprojResolveAssemblyReference.cache
+F:\Projekty C#\Snake\Snake1\obj\Debug\Snake1.MainView.resources
+F:\Projekty C#\Snake\Snake1\obj\Debug\Snake1.Properties.Resources.resources
+F:\Projekty C#\Snake\Snake1\obj\Debug\Snake1.csproj.GenerateResource.Cache
